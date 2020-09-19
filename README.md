@@ -1,5 +1,5 @@
 # RayTracer_Course
-Repository containing project from course on advanced image synthesis implementing the rendering technique of ray tracing.
+Repository containing project from course on advanced image synthesis implementing the rendering technique of ray tracing. Based on the whitted illumniation model.
 
 Implemented - 
 1. Camera, Light and Material models.
